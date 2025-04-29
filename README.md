@@ -10,7 +10,7 @@ With this cooling shell, you can get **reasonably good cooling performance** f
 
 The files provided here include a **front shell**, a **rear shell** (split into two parts), a **handle**, and a shell **connector**—a total of five parts.
 
-## **Compatibility**
+## Compatibility
 
 This shell is designed specifically to house the **Mean Well LOP-300-12 PSU**, which fits neatly inside. The design ensures that the PSU is securely enclosed while maintaining proper airflow for cooling. However, it is also compatible with other power supplies, which can be used externally if needed.
 
