@@ -2,7 +2,7 @@
 
 The Shell Case is a simple and effective solution for organizing cooling on the **ASRock AMD BC-250** module. This snap-on shell allows you to mount a single fan quickly and securely without modifying the card or its case.
 
-![ASRock AMD BC-250 Shell Case](renders/bc250-shell-case-01.png)
+![ASRock AMD BC-250 Shell Case](renders/bc250-shell-case-00.png)
 
 The model requires minimal post-processing—just a couple of heated inserts and fasteners, and it's ready to go. The friction-fit design ensures a snug and stable attachment without additional tools or adhesives.
 
